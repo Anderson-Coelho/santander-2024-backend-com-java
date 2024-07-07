@@ -1,0 +1,1 @@
+web: java -jar build/libs/santander-2024-backend-com-java-0.0.1-SNAPSHOT.jar
